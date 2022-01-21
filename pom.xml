@@ -103,7 +103,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://172.31.83.26:1000/repository/zell-chase-snap/</url>
+	      <url>http://172.31.23.7:2000/repository/test-snap-repo/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
